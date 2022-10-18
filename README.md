@@ -1,2 +1,4 @@
 # odin-recipes
-introductory html exercise
+Introductory html exercise
+
+The purpose of this exercise is to get more familiarity with using html and git
