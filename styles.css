@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    background-color: greenyellow;
+    font-family:'Times New Roman', Times, serif;
+}
+img {
+    height: 400px;
+    width: auto;
+}
+a {
+    font-size: 28px;
+    color: black;
+    background-color: red;
+}
+body {
+    background-color: aquamarine;
+}
